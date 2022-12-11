@@ -26,7 +26,7 @@ where
 - episodes_No: sample size
 - K: Number of hospital sites
 
-There are two other files:
+There are three other files:
 * `utils.py` contains all functions
 * `utils_sepsis.py` contains aditional functions for the sepsis data analysis
 * `sepsis_FDTR.py` contains code to run the analysis using the MIMIV-IV data set which is publicly available

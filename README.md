@@ -7,7 +7,7 @@ Running `simulations.py` will
 
 1) Generate a training dataset using random behavior policy
 2) Train an FDTR policy
-3) Train LDTR, LDTR (MV), and 3 different Q-learning policies (see paper for details)
+3) Train LDTR, LDTR (MV), and 3 different Q-learning policies (see the paper for details)
 4) Evaluate the policies on K hospital sites
 
 Results are saved as a CSV file and estimated parameters from Algorithm 1 are saved as a pickle file which contains a dictionary.
